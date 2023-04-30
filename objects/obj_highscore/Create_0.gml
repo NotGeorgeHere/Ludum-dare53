@@ -1,0 +1,2 @@
+highScore = global.highScore;
+
